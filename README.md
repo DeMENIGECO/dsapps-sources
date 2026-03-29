@@ -42,7 +42,7 @@ All'interno di ogni cartella sono presenti i file del progetto.
 ## 💻 Codici Sorgenti
 
 ### 🌐 Collezione: Ferdor Browser
-- [Ferdor Browser](javascript.void(0))
+- Ferdor Browser (Lo stiamo ancora aggiungendo!)
 
 ---
 
