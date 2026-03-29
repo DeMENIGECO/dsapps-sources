@@ -1,32 +1,51 @@
-# Repository `dsapps-sources`
+# 📦 Repository `dsapps-sources`
 
-## Informazioni 
+## 📖 Informazioni
 
-###### Links
-[![Website](https://img.shields.io/badge/DomePrograms%20Website-🌐-blue)](https://demenigeco.github.io/dsapps/)
+### 🔗 Link utili
+[![Website](https://img.shields.io/badge/DomePrograms%20Website-🌐-blue)](https://demenigeco.github.io/dsapps/)  
 [![README](https://img.shields.io/badge/DomePrograms%20README-📄-violet)](https://github.com/DeMENIGECO/dsapps/tree/main/README.md)
 
-###### Descrizione
-**La Repository `dsapps-repo` è fatta per i codici sorgenti dei programmi in DomePrograms.**
+---
 
+### 🧩 Descrizione
+La repository **`dsapps-sources`** contiene i **codici sorgenti** dei programmi presenti in **DomePrograms**.
 
+⚠️ Se un codice sorgente **non è presente**, significa che:
+- è **una scelta dell'autore**, oppure  
+- **non è ancora stato pubblicato**
 
-Se **manca un codice sorgente** di un programma allora è **VOLUTO dall'autore.** o ancora non messo.
+---
 
-I codici sorgenti, se si esplora questo `README.md`, sono divise in collezioni, ad esempio:
+## 🗂️ Struttura
 
-- **Collezione** Auther
-- **Collezione** Ferdor Browser
-- _Eccetera eccetera..._
+I codici sono organizzati in **collezioni**.
 
-Se invece, si esplorano i files e cartelle, si troverà **cosi:**
+### 📁 Esempi di collezioni
+- **Auther**
+- **Ferdor Browser**
+- *Altre in arrivo...*
+
+---
+
+### 📂 Struttura delle cartelle
+Se esplori i file della repository, troverai una struttura di questo tipo:
 
 ```File Structure
-nome-collezione/programma
+nome-collezione/programma/
 ```
-E in quella cartella si troveranno i files.
 
-## Links Codici Sorgenti
+All'interno di ogni cartella sono presenti i file del progetto.
 
-###### **Collezione** Ferdor Browser
-- [Ferdor Browser](javascript.void(0))
+---
+
+## 💻 Codici Sorgenti
+
+### 🌐 Collezione: Ferdor Browser
+- [Ferdor Browser](javascript:void(0))
+
+---
+
+## ✨ Note
+- Questa repository è in **continuo aggiornamento 🚀**  
+- Nuovi programmi e codici verranno **aggiunti nel tempo**
