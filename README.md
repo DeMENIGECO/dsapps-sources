@@ -29,4 +29,4 @@ E in quella cartella si troveranno i files.
 ## Links Codici Sorgenti
 
 ###### **Collezione** Ferdor Browser
-- [Ferdor Browser](alert("In%20Sviluppo!"))
+- [Ferdor Browser](javascript:void(0))
