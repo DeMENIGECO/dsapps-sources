@@ -42,7 +42,7 @@ All'interno di ogni cartella sono presenti i file del progetto.
 ## 💻 Codici Sorgenti
 
 ### 🌐 Collezione: Ferdor Browser
-- Ferdor Browser (Lo stiamo ancora aggiungendo!)
+- [Ferdor Browser](https://github.com/DeMENIGECO/dsapps-sources/tree/main/Ferdor-Browser/FerdorBrowser)
 
 ---
 
