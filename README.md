@@ -43,6 +43,7 @@ All'interno di ogni cartella sono presenti i file del progetto.
 
 ### 🌐 Collezione: Ferdor Browser
 - [Ferdor Browser](https://github.com/DeMENIGECO/dsapps-sources/tree/main/Ferdor-Browser/FerdorBrowser)
+- [Ferdor Beta](https://github.com/DeMENIGECO/dsapps-sources/tree/main/Ferdor-Browser/FerdorBeta)
 
 ---
 
