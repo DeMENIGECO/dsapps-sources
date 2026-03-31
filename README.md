@@ -39,7 +39,7 @@ All'interno di ogni cartella sono presenti i file del progetto.
 
 ---
 
-## 💻 Codici Sorgenti
+## 💻 Codici Sorgenti (Programmi)
 
 ### 🌐 Collezione: Ferdor Browser
 - [Ferdor Browser](https://github.com/DeMENIGECO/dsapps-sources/tree/main/Ferdor-Browser/FerdorBrowser)
@@ -47,8 +47,11 @@ All'interno di ogni cartella sono presenti i file del progetto.
 
 ---
 
+## 🧩 Codici Sorgenti (Componenti)
+
 🗄️ Collezione: qComponent
 - qComponentPlugin (lo stiamo facendo!)
+- qComponentBatch (lo stiamo facendo!)
 ###
 
 ## ✨ Note
