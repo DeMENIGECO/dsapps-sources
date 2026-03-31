@@ -1,16 +1,27 @@
 @echo off
-
 echo Strumento To-QCBBit
-set /p file=File: (percorso conpleto)
+set /p "file=File: (percorso completo) "
 
-tmp = %file% 
-dir = %LOCALAPPDATA%\qComponent\qcb\temp
-xcopy %tmp% %dir%
+:: Variabili
+set "tmp=%file%"
+set "dir=%LOCALAPPDATA%\qComponent\qcb\temp"
+set "eseg=%LOCALAPPDATA%\qComponent\qcb\eseguiti"
 
-total_dir = %dir%\%tmp%
-eseg = :: Cartella file eseguito
-xcopy %file% %eseg%
+:: Crea cartelle se non esistono
+if not exist "%dir%" mkdir "%dir%"
+if not exist "%eseg%" mkdir "%eseg%"
 
-semplified = %remove[ext] file%
+:: Copia file nella cartella temp
+xcopy "%tmp%" "%dir%\" /y >nul
 
-rename %tmp% %semplified%.qcb
+:: Copia file nella cartella eseguiti
+xcopy "%tmp%" "%eseg%\" /y >nul
+
+:: Nome senza estensione
+for %%F in ("%file%") do set "semplified=%%~nF"
+
+:: Rinomina file nella temp con estensione .qcb
+rename "%dir%\%%~nxF" "%semplified%.qcb"
+
+echo Fatto!
+pause
