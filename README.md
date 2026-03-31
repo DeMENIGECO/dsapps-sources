@@ -9,7 +9,7 @@
 ---
 
 ### 🧩 Descrizione
-La repository **`dsapps-sources`** contiene i **codici sorgenti** dei programmi presenti in **DomePrograms**.
+La repository **`dsapps-sources`** contiene i **codici sorgenti** dei programmi presenti in **DomePrograms** e di alcuni componenti di essi.
 
 ⚠️ Se un codice sorgente **non è presente**, significa che:
 - è **una scelta dell'autore**, oppure  
@@ -46,6 +46,10 @@ All'interno di ogni cartella sono presenti i file del progetto.
 - [Ferdor Beta](https://github.com/DeMENIGECO/dsapps-sources/tree/main/Ferdor-Browser/FerdorBeta)
 
 ---
+
+🗄️ Collezione: qComponent
+- qComponentPlugin (lo stiamo facendo!)
+###
 
 ## ✨ Note
 - Questa repository è in **continuo aggiornamento 🚀**  
