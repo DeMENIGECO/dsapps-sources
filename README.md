@@ -9,7 +9,7 @@
 ---
 
 ### 🧩 Descrizione
-La repository **`dsapps-sources`** contiene i **codici sorgenti** dei programmi presenti in **DomePrograms** e di alcuni componenti di essi.
+La repository **`dsapps-sources`** contiene i **codici sorgenti** dei programmi presenti in **DomePrograms**, inclusi alcuni **componenti interni**.
 
 ⚠️ Se un codice sorgente **non è presente**, significa che:
 - è **una scelta dell'autore**, oppure  
@@ -34,7 +34,6 @@ Se esplori i file della repository, troverai una struttura di questo tipo:
 ```File Structure
 nome-collezione/programma/
 ```
-
 All'interno di ogni cartella sono presenti i file del progetto.
 
 ---
@@ -49,10 +48,11 @@ All'interno di ogni cartella sono presenti i file del progetto.
 
 ## 🧩 Codici Sorgenti (Componenti)
 
-🗄️ Collezione: qComponent
-- qComponentPlugin (lo stiamo facendo!)
-- qComponentBatch (lo stiamo facendo!)
-###
+### 🗄️ Collezione: qComponent
+- qComponentPlugin *(in sviluppo)*
+- qComponentBatch *(in sviluppo)*
+
+---
 
 ## ✨ Note
 - Questa repository è in **continuo aggiornamento 🚀**  
