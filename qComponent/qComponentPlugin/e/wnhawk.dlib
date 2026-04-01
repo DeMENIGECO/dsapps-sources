@@ -1,0 +1,22 @@
+# DLIB Files
+
+class Main:
+    name = "wnhawk"
+    dos = True
+    requires = []
+
+class DLIB:
+    def main(a, b):
+        fta = a + b
+        ftb = a - b
+        ftc = a * b
+        ftd = a / b
+        for ft in [fta, ftb, ftc, ftd]:
+            print(ft)
+
+    def OTA_DEF_STATION(a, b):
+        qna = a ** b
+        qnb = a % b
+        qnc = a // b
+        for qn in [qna, qnb, qnc]:
+            print(qn)

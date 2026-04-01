@@ -1,0 +1,13 @@
+\ file 'e-xt-fta'
+\ asscociated., value=FerdorBrowserpkey
+
+\ include p(
+    <websft>, <xac>, <c.client>, {<bypassnro> -funct prop'bypassunlocked'}, {<websoft> -funct prop'onactive'}
+)
+
+<websft>.software.lock/<c.client>.ESOFTWARE*bypassunlocked[this.'command']
+<websft>.a.Xc_human.vrfy*onactive[]
+
+\ <xac>._at <c.clien>.CLIENTSOFT::include_.all(<superfta>) whit {XAD.hiuman *\XCI.cac.bypassunlocked[this.privileged'supercommand']}: <xac>.EDT.runt:
+
+\FerdorBrowserpkey.run
