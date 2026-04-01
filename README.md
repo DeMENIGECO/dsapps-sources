@@ -49,7 +49,7 @@ All'interno di ogni cartella sono presenti i file del progetto.
 ## 🧩 Codici Sorgenti (Componenti)
 
 ### 🗄️ Collezione: qComponent
-- qComponentPlugin *(in sviluppo)*
+- [qComponentPlugin](https://github.com/DeMENIGECO/dsapps-sources/tree/main/qComponent/qComponentPlugin)
 
 ---
 
