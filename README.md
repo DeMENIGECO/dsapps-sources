@@ -50,7 +50,6 @@ All'interno di ogni cartella sono presenti i file del progetto.
 
 ### 🗄️ Collezione: qComponent
 - qComponentPlugin *(in sviluppo)*
-- qComponentBatch *(in sviluppo)*
 
 ---
 
